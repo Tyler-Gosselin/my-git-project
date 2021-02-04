@@ -2,4 +2,6 @@
 
 > My code for the git project.
 
-- This was done while attending the Bottega coding course
+## I'm in the feature Branch
+
+- This was done while attending the Bottega coding course 
